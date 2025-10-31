@@ -1,0 +1,6 @@
+[
+  { "q": "horario",   "a": "Abrimos de lunes a viernes de 7 a 22 hs, y sábados de 9 a 18 hs." },
+  { "q": "precio",    "a": "El plan mensual cuesta $25.000. Trimestral y anual con descuento." },
+  { "q": "sede",      "a": "Tenemos sedes en Caballito y Palermo. ¿Querés que te pase direcciones?" },
+  { "q": "promocion", "a": "Hay 20% de descuento viniendo con un amigo el primer mes." }
+]
